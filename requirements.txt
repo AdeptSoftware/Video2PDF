@@ -1,0 +1,4 @@
+pyqt5
+ocrmypdf
+opencv-python
+tqdm
